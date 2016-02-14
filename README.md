@@ -1,0 +1,1 @@
+A tutorial exploring Models and Views in Backbone.js. I completed this project as a student at [Hack Reactor Remote Beta](http://www.hackreactor.com/remote-beta).
